@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Faeiq Khan and I'm a Engineering from Nagpur, India</p>
+<p align="left">My name is Faeiq Khan and I'm a Engineering Student from Nagpur, India</p>
 
 ###
 
