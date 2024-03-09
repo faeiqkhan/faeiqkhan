@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Faeiq Khan and I'm a Engineering Student from Nagpur, India</p>
+<p align="left">My name is Faeiq Khan and I'm an Engineering Student from Nagpur, India</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning DSA<br>🎯 Goals: Complete DSA this Year<br>🎲 Fun fact: I am not a Computer Science Major</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning DSA<br>🎯 Goals: Complete DSA this Year<br>🎲 Fun fact: I am not a Computer Science Major Student</p>
 
 ###
 
@@ -49,9 +49,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/faeiq-khan-b15922174" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?to=khanfaeiq@gmail.com&su=&body=&fs=1&tf=cm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/faeiqkhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
